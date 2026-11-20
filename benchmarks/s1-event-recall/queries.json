@@ -1,0 +1,302 @@
+[
+ {
+  "qid": "q01",
+  "query": "seed rounds",
+  "group": "Funding",
+  "hit": "a startup's seed round (company + round)"
+ },
+ {
+  "qid": "q02",
+  "query": "Series A funding",
+  "group": "Funding",
+  "hit": "a Series A round"
+ },
+ {
+  "qid": "q03",
+  "query": "Series B rounds in healthcare",
+  "group": "Funding",
+  "hit": "a healthcare company's Series B"
+ },
+ {
+  "qid": "q04",
+  "query": "fintech startups raising money",
+  "group": "Funding",
+  "hit": "a fintech's funding round, any stage"
+ },
+ {
+  "qid": "q05",
+  "query": "AI startup funding rounds",
+  "group": "Funding",
+  "hit": "an AI company's round"
+ },
+ {
+  "qid": "q06",
+  "query": "climate tech funding",
+  "group": "Funding",
+  "hit": "a climate or clean-energy company's round"
+ },
+ {
+  "qid": "q07",
+  "query": "venture debt deals",
+  "group": "Funding",
+  "hit": "a venture debt facility"
+ },
+ {
+  "qid": "q08",
+  "query": "startups raising funding in India",
+  "group": "Funding",
+  "hit": "an Indian startup's round"
+ },
+ {
+  "qid": "q09",
+  "query": "European startup funding rounds",
+  "group": "Funding",
+  "hit": "a Europe-based startup's round"
+ },
+ {
+  "qid": "q10",
+  "query": "growth equity investments",
+  "group": "Funding",
+  "hit": "a growth or late-stage round"
+ },
+ {
+  "qid": "q11",
+  "query": "acquisitions in cybersecurity",
+  "group": "M&A",
+  "hit": "a cybersecurity acquisition (acquirer + target)"
+ },
+ {
+  "qid": "q12",
+  "query": "bank mergers",
+  "group": "M&A",
+  "hit": "a bank merger or acquisition"
+ },
+ {
+  "qid": "q13",
+  "query": "private equity buyouts",
+  "group": "M&A",
+  "hit": "a PE buyout"
+ },
+ {
+  "qid": "q14",
+  "query": "healthcare M&A",
+  "group": "M&A",
+  "hit": "a healthcare acquisition or merger"
+ },
+ {
+  "qid": "q15",
+  "query": "companies acquiring AI startups",
+  "group": "M&A",
+  "hit": "an acquisition of an AI company"
+ },
+ {
+  "qid": "q16",
+  "query": "mergers in the energy sector",
+  "group": "M&A",
+  "hit": "an energy merger or acquisition"
+ },
+ {
+  "qid": "q17",
+  "query": "take-private deals",
+  "group": "M&A",
+  "hit": "a public company taken private"
+ },
+ {
+  "qid": "q18",
+  "query": "CEO changes in fintech",
+  "group": "Leadership",
+  "hit": "a fintech CEO appointed or leaving (company + person)"
+ },
+ {
+  "qid": "q19",
+  "query": "new CFO appointments",
+  "group": "Leadership",
+  "hit": "a CFO appointment"
+ },
+ {
+  "qid": "q20",
+  "query": "CEO resignations",
+  "group": "Leadership",
+  "hit": "a CEO resignation or ouster"
+ },
+ {
+  "qid": "q21",
+  "query": "chief AI officer hires",
+  "group": "Leadership",
+  "hit": "a chief AI officer appointment"
+ },
+ {
+  "qid": "q22",
+  "query": "board appointments at banks",
+  "group": "Leadership",
+  "hit": "a bank board appointment"
+ },
+ {
+  "qid": "q23",
+  "query": "executive departures at tech companies",
+  "group": "Leadership",
+  "hit": "a C-level or VP departure at a tech company"
+ },
+ {
+  "qid": "q24",
+  "query": "founders stepping down as CEO",
+  "group": "Leadership",
+  "hit": "a founder handing over the CEO role"
+ },
+ {
+  "qid": "q25",
+  "query": "tech layoffs",
+  "group": "Workforce",
+  "hit": "a tech company's layoff round"
+ },
+ {
+  "qid": "q26",
+  "query": "layoffs in banking",
+  "group": "Workforce",
+  "hit": "a bank's job cuts"
+ },
+ {
+  "qid": "q27",
+  "query": "plant closures",
+  "group": "Workforce",
+  "hit": "a factory or plant closure"
+ },
+ {
+  "qid": "q28",
+  "query": "retail restructuring",
+  "group": "Workforce",
+  "hit": "a retailer's restructuring or store-closure plan"
+ },
+ {
+  "qid": "q29",
+  "query": "hiring freezes",
+  "group": "Workforce",
+  "hit": "a company's hiring freeze"
+ },
+ {
+  "qid": "q30",
+  "query": "new factory announcements",
+  "group": "Expansion",
+  "hit": "a new plant or factory (company + site)"
+ },
+ {
+  "qid": "q31",
+  "query": "data center investments",
+  "group": "Expansion",
+  "hit": "a data center build or investment"
+ },
+ {
+  "qid": "q32",
+  "query": "companies opening offices in Europe",
+  "group": "Expansion",
+  "hit": "a new European office or HQ"
+ },
+ {
+  "qid": "q33",
+  "query": "store openings",
+  "group": "Expansion",
+  "hit": "a retailer's new store or market entry"
+ },
+ {
+  "qid": "q34",
+  "query": "supply chain partnerships",
+  "group": "Partnerships",
+  "hit": "a supply or logistics partnership"
+ },
+ {
+  "qid": "q35",
+  "query": "AI product launches",
+  "group": "Launches",
+  "hit": "a company's AI product or model launch"
+ },
+ {
+  "qid": "q36",
+  "query": "partnerships in payments",
+  "group": "Partnerships",
+  "hit": "a payments partnership"
+ },
+ {
+  "qid": "q37",
+  "query": "EV model launches",
+  "group": "Launches",
+  "hit": "a new electric vehicle model"
+ },
+ {
+  "qid": "q38",
+  "query": "drug launches",
+  "group": "Launches",
+  "hit": "a new drug brought to market"
+ },
+ {
+  "qid": "q39",
+  "query": "FDA approvals",
+  "group": "Regulation",
+  "hit": "an FDA approval (product)"
+ },
+ {
+  "qid": "q40",
+  "query": "antitrust investigations",
+  "group": "Regulation",
+  "hit": "an antitrust probe opened or advanced"
+ },
+ {
+  "qid": "q41",
+  "query": "data privacy fines",
+  "group": "Regulation",
+  "hit": "a privacy fine (regulator + company)"
+ },
+ {
+  "qid": "q42",
+  "query": "SEC enforcement actions",
+  "group": "Regulation",
+  "hit": "an SEC action or settlement"
+ },
+ {
+  "qid": "q43",
+  "query": "class action lawsuits against tech companies",
+  "group": "Legal",
+  "hit": "a class action filed or settled"
+ },
+ {
+  "qid": "q44",
+  "query": "product recalls",
+  "group": "Risk",
+  "hit": "a recall (company + product)"
+ },
+ {
+  "qid": "q45",
+  "query": "sanctions on companies",
+  "group": "Risk",
+  "hit": "a company sanctioned or delisted for sanctions"
+ },
+ {
+  "qid": "q46",
+  "query": "data breaches",
+  "group": "Risk",
+  "hit": "a disclosed breach (organisation)"
+ },
+ {
+  "qid": "q47",
+  "query": "ransomware attacks on hospitals",
+  "group": "Risk",
+  "hit": "a hospital or health-system attack"
+ },
+ {
+  "qid": "q48",
+  "query": "corporate bankruptcies",
+  "group": "Risk",
+  "hit": "a bankruptcy or insolvency filing"
+ },
+ {
+  "qid": "q49",
+  "query": "credit rating downgrades",
+  "group": "Risk",
+  "hit": "a company or sovereign downgrade"
+ },
+ {
+  "qid": "q50",
+  "query": "IPO filings",
+  "group": "Capital markets",
+  "hit": "an IPO filing or listing"
+ }
+]

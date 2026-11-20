@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# local working data: raw provider output (includes Exa, which we may not redistribute), pools, judge labels, full exports
+benchmarks/*/runs/
+benchmarks/*/data/
+
+# python / OS
+__pycache__/
+*.pyc
+.DS_Store
+
+# never commit archives by accident; zips live in GitHub Releases (see AGENTS.md)
+*.zip
+!templates/*.zip
+
+# publish_run.py staging area for Release zips
+dist/

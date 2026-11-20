@@ -1,0 +1,702 @@
+[
+ {
+  "qid": "s2_01",
+  "type": "entity",
+  "query": "Nvidia",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about Nvidia, reporting something new in the window"
+ },
+ {
+  "qid": "s2_02",
+  "type": "entity",
+  "query": "Apple news",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about Apple, reporting something new in the window"
+ },
+ {
+  "qid": "s2_03",
+  "type": "entity",
+  "query": "Microsoft latest news",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about Microsoft, reporting something new in the window"
+ },
+ {
+  "qid": "s2_04",
+  "type": "entity",
+  "query": "Meta Platforms news",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about Meta Platforms, reporting something new in the window"
+ },
+ {
+  "qid": "s2_05",
+  "type": "entity",
+  "query": "UniCredit",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about UniCredit, reporting something new in the window"
+ },
+ {
+  "qid": "s2_06",
+  "type": "entity",
+  "query": "Rheinmetall news",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about Rheinmetall, reporting something new in the window"
+ },
+ {
+  "qid": "s2_07",
+  "type": "entity",
+  "query": "Maersk",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about A.P. Moller-Maersk, reporting something new in the window"
+ },
+ {
+  "qid": "s2_08",
+  "type": "entity",
+  "query": "Plug Power stock news",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about Plug Power, reporting something new in the window"
+ },
+ {
+  "qid": "s2_09",
+  "type": "entity",
+  "query": "Infosys latest news",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about Infosys, reporting something new in the window"
+ },
+ {
+  "qid": "s2_10",
+  "type": "entity",
+  "query": "Petrobras news",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about Petrobras, reporting something new in the window"
+ },
+ {
+  "qid": "s2_11",
+  "type": "entity",
+  "query": "Mark Carney",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about Canadian prime minister Mark Carney, reporting something new in the window"
+ },
+ {
+  "qid": "s2_12",
+  "type": "entity",
+  "query": "Zelenskyy",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about Ukrainian president Volodymyr Zelenskyy, reporting something new in the window"
+ },
+ {
+  "qid": "s2_13",
+  "type": "entity",
+  "query": "Elon Musk",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about Elon Musk, reporting something new in the window"
+ },
+ {
+  "qid": "s2_14",
+  "type": "entity",
+  "query": "news from Kenya",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about events in Kenya, reporting something new in the window"
+ },
+ {
+  "qid": "s2_15",
+  "type": "entity",
+  "query": "latest news from Bangladesh, not sports",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about events in Bangladesh, excluding sports, reporting something new in the window"
+ },
+ {
+  "qid": "s2_16",
+  "type": "topic",
+  "query": "AI regulation",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about laws, rules or official actions regulating AI, reporting a new development in the window"
+ },
+ {
+  "qid": "s2_17",
+  "type": "topic",
+  "query": "central bank interest rate decisions",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about a central bank's interest-rate decision or guidance, reporting a new development in the window"
+ },
+ {
+  "qid": "s2_18",
+  "type": "topic",
+  "query": "Russia Ukraine peace talks",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about negotiations to end the Russia–Ukraine war, reporting a new development in the window"
+ },
+ {
+  "qid": "s2_19",
+  "type": "topic",
+  "query": "Strait of Hormuz shipping",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about shipping and oil traffic through the Strait of Hormuz, reporting a new development in the window"
+ },
+ {
+  "qid": "s2_20",
+  "type": "topic",
+  "query": "Gaza ceasefire",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about the Gaza ceasefire or truce talks, reporting a new development in the window"
+ },
+ {
+  "qid": "s2_21",
+  "type": "topic",
+  "query": "Ebola outbreak",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about the current Ebola outbreak, reporting a new development in the window"
+ },
+ {
+  "qid": "s2_22",
+  "type": "topic",
+  "query": "measles outbreaks",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about measles outbreaks, reporting a new development in the window"
+ },
+ {
+  "qid": "s2_23",
+  "type": "topic",
+  "query": "tariffs and trade deals",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about tariff changes or trade agreements, reporting a new development in the window"
+ },
+ {
+  "qid": "s2_24",
+  "type": "topic",
+  "query": "housing crisis protests in Europe",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about protests or strikes over housing in a European country, reporting a new development in the window"
+ },
+ {
+  "qid": "s2_25",
+  "type": "topic",
+  "query": "cyberattacks on governments",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about a cyberattack on a government or public institution, reporting a new development in the window"
+ },
+ {
+  "qid": "s2_26",
+  "type": "topic",
+  "query": "electric vehicle sales",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about EV sales figures or EV market moves, reporting a new development in the window"
+ },
+ {
+  "qid": "s2_27",
+  "type": "topic",
+  "query": "chip export controls",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about export controls on semiconductors or chipmaking tools, reporting a new development in the window"
+ },
+ {
+  "qid": "s2_28",
+  "type": "topic",
+  "query": "GLP-1 weight-loss drugs",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about GLP-1 drugs (Wegovy, Zepbound and similar): approvals, prices, supply, studies, reporting a new development in the window"
+ },
+ {
+  "qid": "s2_29",
+  "type": "topic",
+  "query": "data center power demand",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about electricity demand or power deals for data centers, reporting a new development in the window"
+ },
+ {
+  "qid": "s2_30",
+  "type": "topic",
+  "query": "bitcoin price",
+  "lang": "en",
+  "windows": [
+   "24h",
+   "7d"
+  ],
+  "good": "mainly about moves in the price of bitcoin, reporting a new development in the window"
+ },
+ {
+  "qid": "s2_31",
+  "type": "story",
+  "query": "Prague train collision",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "reports this specific story: two trains collide in Prague, Czech Republic; 46 injured",
+  "gold": "two trains collide in Prague, Czech Republic; 46 injured",
+  "event_date": "2026-11-17",
+  "source": "https://www.bbc.com/news/articles/c6reg7r589nro"
+ },
+ {
+  "qid": "s2_32",
+  "type": "story",
+  "query": "Mongolia president resigns",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "reports this specific story: Mongolian president Ukhnaagiin Khürelsükh announces his resignation after embezzlement accusations",
+  "gold": "Mongolian president Ukhnaagiin Khürelsükh announces his resignation after embezzlement accusations",
+  "event_date": "2026-11-17",
+  "source": "https://apnews.com/article/mongolia-president-corruption-allegations-9542b2bf7536db6ae65b371aac07bbf4"
+ },
+ {
+  "qid": "s2_33",
+  "type": "story",
+  "query": "Crimean Bridge drone strike",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "reports this specific story: Ukrainian drones strike the Crimean Bridge two days running; two killed, a road section collapses",
+  "gold": "Ukrainian drones strike the Crimean Bridge two days running; two killed, a road section collapses",
+  "event_date": "2026-11-17",
+  "source": "https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/"
+ },
+ {
+  "qid": "s2_34",
+  "type": "story",
+  "query": "Antonov An-12 crash Kemerovo",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "reports this specific story: a Russian Air Force An-12 crashes near Kemerovo, killing all 19 on board",
+  "gold": "a Russian Air Force An-12 crashes near Kemerovo, killing all 19 on board",
+  "event_date": "2026-11-17",
+  "source": "https://apnews.com/article/russia-military-air-crash-siberia-an12-bb68e35e985a5e72786d813cf0ce598d"
+ },
+ {
+  "qid": "s2_35",
+  "type": "story",
+  "query": "Apple Pay iCloud outage",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "reports this specific story: Apple Pay, iCloud, App Store and AppleCare go down; Apple blames an internal update",
+  "gold": "Apple Pay, iCloud, App Store and AppleCare go down; Apple blames an internal update",
+  "event_date": "2026-11-17",
+  "source": "https://time.com/article/2026/11/17/apple-outage-down-update-issue/"
+ },
+ {
+  "qid": "s2_36",
+  "type": "story",
+  "query": "Phuket Patong building fire",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "reports this specific story: a fire in a four-story building in Patong, Phuket kills 11 and injures 16",
+  "gold": "a fire in a four-story building in Patong, Phuket kills 11 and injures 16",
+  "event_date": "2026-11-16",
+  "source": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11"
+ },
+ {
+  "qid": "s2_37",
+  "type": "story",
+  "query": "FAA nationwide ground stop",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "reports this specific story: the FAA halts all US flights over communications failures, then lifts the stop",
+  "gold": "the FAA halts all US flights over communications failures, then lifts the stop",
+  "event_date": "2026-11-13",
+  "source": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/"
+ },
+ {
+  "qid": "s2_38",
+  "type": "story",
+  "query": "cruise ship sinks Mississippi River collision",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "reports this specific story: the cruise ship American Heritage sinks after colliding with a tanker near New Orleans; all 130 survive",
+  "gold": "the cruise ship American Heritage sinks after colliding with a tanker near New Orleans; all 130 survive",
+  "event_date": "2026-11-13",
+  "source": "https://edition.cnn.com/2026/11/13/us/new-orleans-river-cruise-collision"
+ },
+ {
+  "qid": "s2_39",
+  "type": "story",
+  "query": "Qatar Turkey defense pact",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "reports this specific story: Qatar and Turkey sign a defense pact in Istanbul",
+  "gold": "Qatar and Turkey sign a defense pact in Istanbul",
+  "event_date": "2026-11-13"
+ },
+ {
+  "qid": "s2_40",
+  "type": "story",
+  "query": "Canada Philippines free trade agreement",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "reports this specific story: Canada and the Philippines conclude free-trade agreement negotiations",
+  "gold": "Canada and the Philippines conclude free-trade agreement negotiations",
+  "event_date": "2026-11-14"
+ },
+ {
+  "qid": "s2_41",
+  "type": "story",
+  "query": "Eurovision Asia winner",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "reports this specific story: the Philippines (Carmelle, \"Sobra-Sobra\") wins the first Eurovision Song Contest Asia in Bangkok",
+  "gold": "the Philippines (Carmelle, \"Sobra-Sobra\") wins the first Eurovision Song Contest Asia in Bangkok",
+  "event_date": "2026-11-14",
+  "source": "https://apnews.com/article/thailand-eurovision-asia-2026-carmelle-winner-099ca558c4638949e637d3a8f8061d6d"
+ },
+ {
+  "qid": "s2_42",
+  "type": "story",
+  "query": "Estonia closes border crossings with Russia",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "reports this specific story: Estonia will close its three Russia border crossings from Dec 1 after a foiled arson attack on drone maker Threod Systems",
+  "gold": "Estonia will close its three Russia border crossings from Dec 1 after a foiled arson attack on drone maker Threod Systems",
+  "event_date": "2026-11-15",
+  "source": "https://edition.cnn.com/2026/11/15/europe/estonia-close-russian-border-attack-intl"
+ },
+ {
+  "qid": "s2_43",
+  "type": "question",
+  "query": "Why did Jensen Huang resign from Nvidia?",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "its title or snippet answers the question",
+  "gold": "reports of two extramarital affairs, one involving a suspected Chinese intelligence agent; CFO Colette Kress is interim CEO",
+  "event_date": "2026-11-12",
+  "source": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
+ },
+ {
+  "qid": "s2_44",
+  "type": "question",
+  "query": "Who won the Alaska Senate race?",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "its title or snippet answers the question",
+  "gold": "Democrat Mary Peltola, defeating Republican Dan Sullivan",
+  "event_date": "2026-11-17",
+  "source": "https://apnews.com/article/alaska-senate-peltola-sullivan-congress-f1fd4d243bf764ec46ff94db4c792953"
+ },
+ {
+  "qid": "s2_45",
+  "type": "question",
+  "query": "Which countries lost their measles elimination status?",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "its title or snippet answers the question",
+  "gold": "Bolivia, Mexico and the United States (Pan American Health Organization)",
+  "event_date": "2026-11-17",
+  "source": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak"
+ },
+ {
+  "qid": "s2_46",
+  "type": "question",
+  "query": "What are Bangladesh garment workers demanding?",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "its title or snippet answers the question",
+  "gold": "a monthly minimum wage rise from Tk12,500 to Tk30,000",
+  "event_date": "2026-11-18",
+  "source": "https://www.thedailystar.net/news/news/police-vehicle-torched-garment-workers-block-dhaka-mymensingh-highway-4326951"
+ },
+ {
+  "qid": "s2_47",
+  "type": "question",
+  "query": "Why did Italy fine Meta?",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "its title or snippet answers the question",
+  "gold": "the Facebook Android app accessed users' photos and videos without specific consent; €805 million fine",
+  "event_date": "2026-11-14",
+  "source": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"
+ },
+ {
+  "qid": "s2_48",
+  "type": "question",
+  "query": "What did Canada and China agree on tariffs?",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "its title or snippet answers the question",
+  "gold": "further tariff cuts: China on C$400 million of Canadian exports, Canada extends relief for Chinese steel and aluminium",
+  "event_date": "2026-11-17",
+  "source": "https://www.afp.com/en/canada-china-agree-further-tariff-cuts-leaders-meet"
+ },
+ {
+  "qid": "s2_49",
+  "type": "question",
+  "query": "Who won the WTA Finals?",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "its title or snippet answers the question",
+  "gold": "Mirra Andreeva, beating Elina Svitolina 7–5, 6–3",
+  "event_date": "2026-11-15",
+  "source": "https://www.france24.com/en/live-news/20261115-andreeva-defeats-svitolina-to-win-wta-finals"
+ },
+ {
+  "qid": "s2_50",
+  "type": "question",
+  "query": "What happened to the supertanker in the Strait of Hormuz?",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "its title or snippet answers the question",
+  "gold": "it sank after striking a mine, carrying two million barrels of oil (per Iran's IRGC)",
+  "event_date": "2026-11-15",
+  "source": "https://www.arabnews.com/middle-east/iran-says-supertanker-with-2-million-barrels-of-oil-sank-in-gulf-3012053"
+ },
+ {
+  "qid": "s2_51",
+  "type": "question",
+  "query": "Who won the Cape Verde presidential election?",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "its title or snippet answers the question",
+  "gold": "incumbent José Maria Neves, re-elected with 63.8%",
+  "event_date": "2026-11-15",
+  "source": "https://www.france24.com/en/live-news/20261115-cape-verde-s-president-jose-maria-neves-re-elected-provisional-election-results"
+ },
+ {
+  "qid": "s2_52",
+  "type": "question",
+  "query": "How far is Voyager 1 from Earth now?",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "its title or snippet answers the question",
+  "gold": "one light-day, the first human-made object to reach it",
+  "event_date": "2026-11-18",
+  "source": "https://edition.cnn.com/2026/11/18/science/voyager-1-light-day"
+ },
+ {
+  "qid": "s2_53",
+  "type": "question",
+  "query": "Which bank is UniCredit acquiring?",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "its title or snippet answers the question",
+  "gold": "Germany's Commerzbank, about €45 billion; EU and Fed approval on Nov 16",
+  "event_date": "2026-11-16",
+  "source": "https://www.reuters.com/business/finance/unicredit-wins-eu-approval-commerzbank-acquisition-2026-11-16/"
+ },
+ {
+  "qid": "s2_54",
+  "type": "question",
+  "query": "Who was re-elected head of the International Labour Organization?",
+  "lang": "en",
+  "windows": [
+   "7d"
+  ],
+  "good": "its title or snippet answers the question",
+  "gold": "former Togolese prime minister Gilbert Houngbo",
+  "event_date": "2026-11-16",
+  "source": "https://www.afp.com/en/former-togo-pm-re-elected-un-labour-agency-chief"
+ },
+ {
+  "qid": "s2_55",
+  "type": "non_english",
+  "query": "宇树科技 最新消息",
+  "lang": "zh",
+  "windows": [
+   "7d"
+  ],
+  "good": "mainly about Unitree Robotics (Chinese), reporting something new in the window; any language counts"
+ },
+ {
+  "qid": "s2_56",
+  "type": "non_english",
+  "query": "Banco Central taxa de juros",
+  "lang": "pt",
+  "windows": [
+   "7d"
+  ],
+  "good": "mainly about Brazil's central bank and interest rates (Portuguese), reporting something new in the window; any language counts"
+ },
+ {
+  "qid": "s2_57",
+  "type": "non_english",
+  "query": "huelga general vivienda España",
+  "lang": "es",
+  "windows": [
+   "7d"
+  ],
+  "good": "mainly about Spain's general strike over housing (Spanish), reporting something new in the window; any language counts"
+ },
+ {
+  "qid": "s2_58",
+  "type": "non_english",
+  "query": "Gasreserve Bundesregierung",
+  "lang": "de",
+  "windows": [
+   "7d"
+  ],
+  "good": "mainly about Germany's planned strategic gas reserve (German), reporting something new in the window; any language counts"
+ },
+ {
+  "qid": "s2_59",
+  "type": "non_english",
+  "query": "manifestations étudiants France",
+  "lang": "fr",
+  "windows": [
+   "7d"
+  ],
+  "good": "mainly about student protests in France (French), reporting something new in the window; any language counts"
+ },
+ {
+  "qid": "s2_60",
+  "type": "non_english",
+  "query": "日銀 金融政策",
+  "lang": "ja",
+  "windows": [
+   "7d"
+  ],
+  "good": "mainly about Bank of Japan monetary policy (Japanese), reporting something new in the window; any language counts"
+ }
+]

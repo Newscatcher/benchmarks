@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use these benchmarks, please cite them as below."
+title: "NewsCatcher benchmarks"
+type: software
+authors:
+  - name: "NewsCatcher"
+repository-code: "https://github.com/Newscatcher/benchmarks"
+license: MIT
