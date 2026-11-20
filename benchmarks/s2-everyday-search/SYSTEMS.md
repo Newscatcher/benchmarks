@@ -33,13 +33,13 @@ documented public option; no query is hand-tuned per vendor.
 - **Exa deep-lite and deep return a short list,** not the 50 asked for. Exa documents no cap, so they're scored
   like every other system: empty slots count as misses.
 
-**Per run** (50 queries × 3 windows = 150 query-windows):
+**Per run** (60 queries, 90 query-windows, 10 results per call):
 
 | Line | Cost |
 |---|---|
-| NewsCatcher (4 arms) | about 3,150 NCC (≈$3) |
-| Exa (4 arms; deep-lite and deep about $5.50 of it) | about $20 |
-| Parallel (2 arms) | about $1.50 |
-| Firecrawl | about $3.75 |
-| Judge (about 40k pooled results) | about $75 |
-| **Total** | **about $100 per run** |
+| NewsCatcher (3 arms) | about 1,450 NCC (≈$1.45) |
+| Exa (4 arms; deep-lite and deep about $2.15 of it) | about $3.15 |
+| Parallel (2 arms) | about $0.90 |
+| Firecrawl | about $0.45 |
+| Judge (about 6,000 pooled results) | about $20 |
+| **Total** | **about $26 per run** |

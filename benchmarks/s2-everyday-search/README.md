@@ -51,7 +51,7 @@ What each step does:
 5. **`export.py`** writes the flat tables described in [DATA.md](DATA.md).
 
 **Cost and time for one run:**
-- searches: about $5.50 at list price;
+- searches: about $6 at list price;
 - judge: about $20 for about 6,000 pooled results;
 - time: about 40 minutes.
 
