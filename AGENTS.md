@@ -115,7 +115,6 @@ without re-spending API credits. Never in the Release.
 
 | Issue | Status |
 |---|---|
-| `benchmarks/s2-everyday-search/SYSTEMS.md` has a "Per run" cost table copied verbatim from S1 ("50 queries × 3 windows = 150 query-windows", judge about $75). S2 has 60 queries and 90 query-windows; its README gives about $5.50 for searches and $20 for the judge. | Needs the maintainer's real S2 numbers. Do not guess them. |
 | S1's `run.py`, `pool.py`, `judge.py`, `pagecheck.py` and S2's `lib/clients.py`, `pooling.py`, `judging.py`, `pages.py` are near-identical copies (2 to 13 differing lines each). | Intentional for now: each suite is self-contained and frozen per run. A shared `harness/` is a separate PR, with a dry run proving both suites still produce identical pools. |
 | Example run ids in suite READMEs (`2026-11-24`, `2026-11-25`) are illustrations, not published runs. | No action. |
 
